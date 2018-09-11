@@ -15,7 +15,7 @@ int main()
 	pair<int, int> p;
 
 
-	sort(p, p + N);
+	//sort(p, p + N);
 	
 
 	return 0;
